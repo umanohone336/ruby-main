@@ -1,5 +1,5 @@
 hand = "グー"
-if hand <= "グー"
+if hand == "グー"
   puts "出した手はグーです"
 end
 
